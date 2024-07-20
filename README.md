@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JackLin-Yao
-- 👀 I’m interested in JavaScript、Golang、Typescript、Vue
+- 👀 I’m interested in JavaScript、Golang、Typescript、Vue、Java
 - 🌱 I’m currently learning Front-end and Back-end technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
